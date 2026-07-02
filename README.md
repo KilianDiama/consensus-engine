@@ -1,3 +1,5 @@
+credit : kiliandiama
+
 README — ConsensusEngine 10/10 HPC PoW Kernel
 Overview
 ConsensusEngine_10_10_HPC_PERF_v2 is a high‑performance, deterministic Proof‑of‑Work engine designed for distributed consensus, scientific pipelines, and trustable compute environments.
